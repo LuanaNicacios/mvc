@@ -1,0 +1,51 @@
+[
+    { "Jogo": "League of Leagends",
+    "tema": "MOBA",
+    "quantidade": "5 Jogadores"
+},
+
+    { "Jogo": "Valorent",
+    "tema": "FPS",
+    "Quantidade": "5 Jogadores"
+},
+
+    { "Jogo": "The Sims",
+    "Tema": "Simulação de vida real",
+    "Quantidade": "Mutiplos jogadores"
+},
+
+    { "Jogo": "Dead By Dayligth",
+    "Tema": "Terror",
+    "Quantidade": "5 Jogadores"
+},
+
+    { "Jogo": "Minecraft",
+    "Tema": "SandBox e Sobrevivência",
+    "Quantidade": "Mutiplos Jogadores"
+},
+
+    { "Jogo": "Fortnite",
+    "Tema": "FPS",
+    "Quantidade": "5 Jogadores"
+},
+
+    { "Jogo": "Runaeterra",
+    "Tema": "RPG",
+    "Quantidade": "1 Jogador"
+},
+
+    { "Jogo": "FallGuys",
+    "Tema": "Festa Royale",
+   "Quantidade": "4 Jogadores"
+},
+
+    { "Jogo": "GTA 5",
+    "Tema": "Simulação de vida Real",
+    "Quantidade": "Mutiplos jogadores"
+},
+
+    { "Jogo": "Residente Evil",
+    "Tema": "Terror Sobrevivencias",
+    "Quantidade": "8 Jogadores"
+}
+]
